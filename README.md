@@ -6,8 +6,6 @@
 
 ---
 
-![CRM相关书籍合集](image/694278635729.webp)
-
 ## CRM书籍1:《破解CRM密码》作者:Limesh Parekh
 
 完整书名:《Cracking the CRM Code: How to Prevent Failures in Buying, Implementing and Using CRM》(破解CRM密码:如何避免购买、实施和使用CRM时的失败)
